@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/brodyking/wikimd/main/src/img/favicon.ico?token=GHSAT0AAAAAABSWLCIZWZ2DVECFL6MBPKYIYVRJYDA" alt="Logo" height="100">
+  <img src="src/img/favicon.ico" alt="Logo" height="100">
   
   <h3 align="center" style="margin: 0px;">WikiMD</h3>
   <p align="center">
@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src='https://raw.githubusercontent.com/brodyking/wikimd/main/src/img/wikimd.png?token=GHSAT0AAAAAABSWLCIYKHIIGJW2RL2C2HTAYVRJV7A' style='width: 100%;'>
+<img src='src/img/wikimd.png' style='width: 100%;'>
 
 WikiMD lets you create a wiki site in minutes with relative ease. All you have to do is download the source code, start your web server, and your site is already running! No need to install anything or create any databases! This is because all the content is stored in .md files that can be found in /data/
 
