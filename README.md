@@ -2,7 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center" style="margin: 0px;">[[ wikimd ]] </h3>
+  
+  <img src="https://raw.githubusercontent.com/brodyking/wikimd/main/src/img/favicon.ico?token=GHSAT0AAAAAABSWLCIZWZ2DVECFL6MBPKYIYVRJYDA" alt="Logo" height="100">
+  
+  <h3 align="center" style="margin: 0px;">WikiMD</h3>
   <p align="center">
     A lightweight wiki software that allows for basic page creation in markdown.
     <br />
